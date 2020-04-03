@@ -1,0 +1,138 @@
+Sl. No,Chiller,Location,BuildingType,Make,Type
+1,1,Mys,GEC,YORK,Water-Screw
+2,2,Mys,GEC,YORK,Water-Screw
+3,3,Mys,GEC,YORK,Water-Screw
+4,4,Mys,GEC,YORK,Water-Screw
+5,1,Mys,GEC,YORK,Water-Centrifugal
+6,2,Mys,GEC,YORK,Water-Centrifugal
+7,3,Mys,GEC,YORK,Water-Centrifugal
+8,4,Mys,GEC,YORK,Water-Centrifugal
+9,1,Mys,ILI,Carrier,Water-Screw
+10,1,Mys,SDB,Carrier,Water-Screw
+11,1,Mys,SDB,YORK,Water-Centrifugal
+12,2,Mys,SDB,YORK,Water-Centrifugal
+13,3,Mys,SDB,YORK,Water-Centrifugal
+14,4,Mys,SDB,YORK,Water-Centrifugal
+15,1,Mys,SDB,YORK,Water-Centrifugal
+16,2,Mys,SDB,YORK,Water-Centrifugal
+17,1,Mys,SDB,Bluebox,Air cooled Scroll
+18,2,Mys,SDB,Bluebox,Air cooled Scroll
+19,3,Mys,SDB,Bluebox,Air cooled Scroll
+20,1,BLR,Park,YORK,Water - Screw
+21,2,BLR,Park,YORK,Water - Centrifugal
+22,1,BLR,Park,YORK,Water - Screw
+23,2,BLR,Park,YORK,Water - Screw
+24,3,BLR,Park,YORK,Water - Screw
+25,4,BLR,Park,YORK,Water-Centrifugal
+26,1,BLR,Park,YORK,Water
+27,2,BLR,Park,YORK,Water
+28,3,BLR,Park,YORK,Water
+29,1,BLR,Park,YORK,Water-Centrifugal
+30,2,BLR,Park,Carrier,Water-Screw
+31,1,BLR,Park,YORK,Water-Centrifugal
+32,2,BLR,Park,YORK,Water-Centrifugal
+33,3,BLR,Park,YORK,Water-Centrifugal
+34,1,BLR,Park,YORK,Water-Centrifugal
+35,2,BLR,Park,YORK,Water-Centrifugal
+36,3,BLR,Park,Carrier,Water-Screw
+37,1,BLR,Park,YORK,Water-Centrifugal
+38,2,BLR,Park,YORK,Water-Centrifugal
+39,3,BLR,Park,YORK,Water-Centrifugal
+40,1,BLR,MNC,Bluestar,Water-Centrifugal
+41,1,Hyd ,STP,YORK,Water-Centrifugal
+42,2,Hyd ,STP,YORK,Water-Centrifugal
+43,3,Hyd ,STP,YORK,Water-Centrifugal
+44,1,Hyd ,STP,YORK,Water-Screw
+45,2,Hyd ,STP,YORK,Water-Centrifugal
+46,3,Hyd ,STP,YORK,Water-Centrifugal
+47,4,Hyd ,STP,YORK,Water-Centrifugal
+48,1,Hyd ,Covention Plant,YORK,Water-Screw
+49,1,Hyd ,Radiant Plant,YORK,Water-Centrifugal
+50,1,Hyd ,Central Chiller Plant,Carrier,Water-Screw
+51,2,Hyd ,Central Chiller Plant,Carrier,Water-Screw
+52,3,Hyd ,Central Chiller Plant,YORK,Water-Centrifugal
+53,4,Hyd ,Central Chiller Plant,YORK,Water-Centrifugal
+54,5,Hyd ,Central Chiller Plant,YORK,Water-Centrifugal
+55,6,Hyd ,Central Chiller Plant,YORK,Water-Centrifugal
+56,1,Bhubaneshwar,Main Plant,YORK,Water-Centrifugal
+57,2,Bhubaneshwar,Main Plant,YORK,Water-Centrifugal
+58,3,Bhubaneshwar,Main Plant,YORK,Water-Centrifugal
+59,4,Bhubaneshwar,Main Plant,YORK,Water-Centrifugal
+60,1,Bhubaneshwar,K-10,Blue Star,Air cooled Scroll
+61,2,Bhubaneshwar,K-10,Blue Star,Air cooled Scroll
+62,3,Bhubaneshwar,K-10,Blue Star,Air cooled Scroll
+63,4,Bhubaneshwar,K-10,Blue Star,Air cooled Scroll
+64,1,Bhubaneshwar,ECC,Blue Star,Air cooled Scroll
+65,2,Bhubaneshwar,ECC,Blue Star,Air cooled Scroll
+66,1,Bhubaneshwar,CCC,YORK,Water-Screw
+67,2,Bhubaneshwar,CCC,YORK,Water-Screw
+68,3,Bhubaneshwar,CCC,YORK,Water-Screw
+69,1,Bhubaneshwar,SEZ,YORK,Water-Centrifugal
+70,2,Bhubaneshwar,SEZ,YORK,Water-Centrifugal
+71,1,Jaipur,Jaipur,YORK,Water-Centrifugal
+72,2,Jaipur,Jaipur,YORK,Water-Centrifugal
+73,1,Chandigarh,Chiller Plant,YORK,Water-Centrifugal
+74,2,Chandigarh,Chiller Plant,YORK,Water-Centrifugal
+75,3,Chandigarh,Chiller Plant,YORK,Water-Centrifugal
+76,4,Chandigarh,Chiller Plant,YORK,Water-Centrifugal
+77,1,Pune phase 1,Phase 1,YORK,Water-Screw
+78,2,Pune phase 1,Phase 1,YORK,Water-Screw
+79,3,Pune phase 1,Phase 1,YORK,Water-Screw
+80,4,Pune phase 1,Phase 1,YORK,Water-Screw
+81,5,Pune phase 1,Phase 1,Carrier,Water-Screw
+82,1,Pune phase 2,SDB,YORK,Screw Water Cooled
+83,2,Pune phase 2,SDB,YORK,Screw Water Cooled
+84,1,Pune phase 2,SDB,YORK,Screw Water Cooled
+85,2,Pune phase 2,SDB,YORK,Screw Water Cooled
+86,1,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+87,2,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+88,1,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+89,2,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+90,1,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+91,2,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+92,3,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+93,4,Pune phase 2,SDB,YORK,Centrifugal Water Cooled
+94,5,Pune phase 2,SDB,Blue Star,Scroll Air Cooled
+95,6,Pune phase 2,SDB,Blue Star,Scroll Air Cooled
+96,1,Pune phase 2,ECC,YORK,Centrifugal Water Cooled
+97,2,Pune phase 2,ECC,YORK,Centrifugal Water Cooled
+98,3,Pune phase 2,ECC,YORK,Centrifugal Water Cooled
+99,4,Pune phase 2,ECC,Blue Star,Scroll Air Cooled
+100,5,Pune phase 2,ECC,Blue Star,Scroll Air Cooled
+101,1,Pune phase 2,IBPO,YORK,Centrifugal Water Cooled
+102,2,Pune phase 2,IBPO,YORK,Centrifugal Water Cooled
+103,3,Pune phase 2,IBPO,Blue Star,Scroll Air Cooled
+104,4,Pune phase 2,IBPO,Blue Star,Scroll Air Cooled
+105,5,Pune phase 2,IBPO,Blue Star,Scroll Air Cooled
+106,1,Pune phase 2,NCB,Carrier,Screw Water Cooled
+107,2,Pune phase 2,NCB,Carrier,Screw Water Cooled
+108,3,Pune phase 2,NCB,YORK,Centrifugal Water Cooled
+109,4,Pune phase 2,NCB,YORK,Centrifugal Water Cooled
+110,1,Pune phase 2,Food Court,YORK,Scroll Air Cooled
+111,2,Pune phase 2,Food Court,YORK,Scroll Air Cooled
+112,1,Chennai,Shollinganallur,YORK,Water-Centrifugal
+113,2,Chennai,Shollinganallur,YORK,Water-Centrifugal
+114,3,Chennai,Shollinganallur,YORK,Water-Centrifugal
+115,4,Chennai,Shollinganallur,Carrier,Water-Screw
+116,1,Chennai,M-city,YORK,Water-Centrifugal
+117,2,Chennai,M-city,YORK,Water-Centrifugal
+118,3,Chennai,M-city,YORK,Water-Centrifugal
+119,4,Chennai,M-city,YORK,Water-Centrifugal
+120,1,Chennai,M-city,CARRIER ,Water-Screw
+121,2,Chennai,M-city,CARRIER ,Water-Screw
+122,3,Chennai,M-city,CARRIER ,Water-Screw
+123,4,Chennai,M-city,CARRIER ,Water-Screw
+124,5,Chennai,M-city,YORK,Water-Centrifugal
+125,6,Chennai,M-city,YORK,Water-Centrifugal
+126,1,Trivandrum,SDB,YORK,Water-Centrifugal
+127,2,Trivandrum,SDB,YORK,Water-Centrifugal
+128,3,Trivandrum,SDB,YORK,Water-Centrifugal
+129,1,Trivandrum,SDB,YORK,Water-Centrifugal
+130,2,Trivandrum,SDB,YORK,Water-Centrifugal
+131,3,Trivandrum,SDB,YORK,Water-Centrifugal
+132,1,Mangalore,MangalaSDB,,
+133,2,Mangalore,MangalaSDB,,
+134,3,Mangalore,MangalaSDB,,
+135,1,Mangalore,NethraSDB,,
+136,2,Mangalore,NethraSDB,,
+137,3,Mangalore,NethraSDB,,
